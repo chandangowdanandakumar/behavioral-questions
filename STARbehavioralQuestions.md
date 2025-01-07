@@ -197,13 +197,6 @@ Designed and developed a backend system for Optical Character Recognition for pr
 
 20. Tell me about how you stayed updated on the latest performance optimization techniques during this project. How did you incorporate new learnings into your work?
 
-Citations:
-[1] https://www.greatfrontend.com/blog/code-splitting-and-lazy-loading-in-react
-[2] https://daily.dev/blog/react-senior-interview-questions-for-2024
-[3] https://www.youtube.com/watch?v=iWkFDVIj7OY
-[4] https://dev.to/herat_dhruv/how-to-answer-on-performance-optimisation-question-in-a-frontend-interview-40pc
-[5] https://www.youtube.com/watch?v=F8EG8i2ki8U
-[6] https://www.clientside.dev/blog/frontend-performance-interview-questions
 </details>
 
 #
@@ -252,16 +245,6 @@ Citations:
 
 20. Tell me about a time when you had to collaborate with other teams to integrate the encryption system with existing banking infrastructure. What challenges did you face and how did you overcome them?
 
-Citations:
-[1] https://www.adaface.com/blog/gdpr-interview-questions/
-[2] https://uk.indeed.com/career-advice/finding-a-job/gdpr-interview-questions
-[3] https://www.interviews.chat/questions/cloud-security-engineer
-[4] https://www.remoterocketship.com/advice/guide/security-engineer/data-security-engineer-interview-questions-and-answers
-[5] https://www.testpreptraining.com/blog/top-50-cloud-security-engineer-interview-questions-and-answers/
-[6] https://huru.ai/security-engineer-interview-questions-protect-sensitive-information/
-[7] https://hellointern.in/blog/tokenization-interview-questions-and-answers-10609
-[8] https://www.talentlyft.com/template/software-security-engineer-interview-questions
-[9] https://aspect-hq.com/interview-questions-7/Software-Engineer-Cryptographic-Protocol-Interview-Questions
 </details>
 
 
@@ -316,17 +299,6 @@ Citations:
 
 20. How did you approach documentation and knowledge sharing for your micro-frontend architecture? Can you provide an example of how this benefited the team or project?
 
-Citations:
-[1] https://www.esparkinfo.com/blog/react-interview-questions.html
-[2] https://www.codemerit.in/micro-frontend-architecture-interview-questions/
-[3] https://dev.to/m_midas/44-react-frontend-interview-questions-2o63
-[4] https://www.reddit.com/r/reactjs/comments/18muk6w/what_are_the_interview_questions_in_you_have/
-[5] https://www.codementor.io/@riza/introduction-to-micro-frontends-architecture-in-react-js-2hqa9dvxtg
-[6] https://www.xenonstack.com/insights/micro-frontend-architecture
-[7] https://www.coursera.org/articles/front-end-developer-interview-questions
-[8] https://dev.to/abhishekraj272/top-interview-questions-for-frontend-developers-3d5j
-[9] https://www.odinschool.com/blog/front-end-developer-most-asked-interview-questions-with-answers-advanced-level
-[10] https://liveloveapp.com/blog/2022-12-05-20-questions-microfrontends
 </details>
 
 #
@@ -373,17 +345,6 @@ Citations:
 
 20. Describe a situation where you implemented an improvement in the on-call process itself. What was the impact?
 
-Citations:
-[1] https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique
-[2] https://www.indeed.com/career-advice/interviewing/call-center-interview-questions
-[3] https://hellointern.in/blog/root-cause-analysis-interview-questions-and-answers-98762
-[4] https://www.youtube.com/watch?v=JkHOvJa4_hc
-[5] https://www.remoterocketship.com/advice/guide/customer-support/phone-support-interview-questions-and-answers
-[6] https://www.finalroundai.com/interview-questions/1561/tell-me-about-a-situation-that-required-you-to-dig-deep-to-get-to-the-root-cause
-[7] https://resources.biginterview.com/industry-specific/customer-service-behavioral-interview-questions-and-answers/
-[8] https://www.monster.com/career-advice/article/call-center-interview-questions
-[9] https://www.youtube.com/watch?v=gsjGOUF2ZYY
-[10] https://novoresume.com/career-blog/star-interview-questions
 </details>
 
 #
@@ -433,17 +394,6 @@ maintainable and scalable code.
 
 20. Describe a situation where you had to refactor code to improve its testability. What specific changes did you make and what was the outcome?
 
-Citations:
-[1] https://muuktest.com/blog/regression-tests
-[2] https://www.geeksforgeeks.org/7-code-refactoring-techniques-in-software-engineering/
-[3] https://deviniti.com/blog/application-lifecycle-management/modular-approach-in-software-testing/
-[4] https://www.testdevlab.com/blog/regression-testing-in-software-testing-definition-and-best-practices-for-2024
-[5] https://mobidev.biz/blog/application-refactoring-strategy-techniques-best-practices
-[6] https://abhishekejam.substack.com/p/how-unit-testing-improves-software
-[7] https://www.opkey.com/blog/top-10-regression-testing-best-practices
-[8] https://codefresh.io/learn/unit-testing/
-[9] https://www.headspin.io/blog/power-regression-testing-software-reliability
-[10] https://refraction.dev/blog/unit-testing-best-practices
 </details>
 
 #
@@ -492,17 +442,6 @@ Citations:
 
 20. Describe a situation where the automated pipeline caught a critical bug that might have been missed with manual testing. How did this impact the project?
 
-Citations:
-[1] https://circleci.com/ci-cd/
-[2] https://nandbox.com/implementing-automation-best-practices-testing-processes/
-[3] https://duplocloud.com/ci-cd-with-circleci-best-practices-for-devops-teams/
-[4] https://github.com/reportportal
-[5] https://originalsoftware.com/5-ways-to-reduce-manual-testing-effort-by-up-to-60/
-[6] https://www.lambdatest.com/blog/best-practices-of-ci-cd-pipelines-for-speed-test-automation/
-[7] https://circleci.com/blog/what-is-a-ci-cd-pipeline/
-[8] https://reportportal.io/docs/features/UnifiedTestReporting/
-[9] https://qameta.io/blog/automated-testing-ci-cd-guide/
-[10] https://www.neovasolutions.com/2023/07/13/how-to-create-ci-cd-pipeline-using-circleci/
 
 </details>
 
@@ -555,16 +494,6 @@ Citations:
 
 20. How did you measure the success and impact of the dashboard application after its implementation? Can you provide specific metrics or feedback you received?
 
-Citations:
-[1] https://www.cdata.com/kb/tech/neo4j-connect-react.rst
-[2] https://geekyants.com/en-us/blog/key-features-to-include-in-your-custom-data-dashboard-app-in-2024
-[3] https://www.dhiwise.com/post/building-web-applications-with-react-neo4j
-[4] https://www.esparkinfo.com/blog/reactjs-for-dashboards-and-data-visualization.html
-[5] https://incora.software/insights/dashboard-app-key-features
-[6] https://blog.tomsawyer.com/neo4j-graph-visualization
-[7] https://successive.tech/blog/8-key-features-to-include-in-your-custom-data-dashboard/
-[8] https://databox.com/dashboard-features
-[9] https://cambridge-intelligence.com/react-neo4j-visualization/
 
 </details>
 
@@ -614,17 +543,6 @@ Citations:
 
 20. Tell me about a time when you had to quickly iterate on a D3.js visualization based on user feedback. How did you manage the rapid development cycle?
 
-Citations:
-[1] https://www.linkedin.com/advice/1/what-best-practices-using-d3js-create-data-r5naf
-[2] https://www.needlanalytics.com/mastering-effective-strategies-custom-data/
-[3] https://dev.to/iaadidev/how-to-deploy-an-application-using-nginx-as-a-web-server-36a
-[4] https://devtoys.io/2024/07/07/advanced-data-visualization-techniques-with-d3-js-and-plotly/
-[5] https://www.linkedin.com/pulse/step-by-step-guide-creating-dynamic-bar-charts-d3js-fagun
-[6] https://www.linkedin.com/pulse/deploying-web-application-nginx-server-reverse-proxy-guide-mangla-zzotc
-[7] https://dataexpertise.in/7-strategies-interactive-data-visualization-d3-js/
-[8] https://stackoverflow.com/questions/42521333/creating-a-custom-list-chart-in-c3-js-or-d3-js
-[9] https://www.pal.tech/technology/nginx-deployment/
-[10] https://www.linkedin.com/advice/0/how-can-d3js-improve-your-data-visualization
 
 
 </details>
@@ -674,17 +592,6 @@ Citations:
 
 20. Can you describe how you measured and improved the app's accessibility after the migration to React Native?
 
-Citations:
-[1] https://curatepartners.com/blogs/skills-tools-platforms/transitioning-from-react-to-react-native-a-comprehensive-guide-for-web-and-mobile-development/
-[2] https://www.grazitti.com/blog/7-benefits-of-using-react-native-for-mobile-app-development/
-[3] https://flatirons.com/blog/react-native-accessibility/
-[4] https://sendbird.com/blog/increase-app-engagement-with-these-strategies
-[5] https://www.linkedin.com/pulse/boosting-your-apps-performance-proven-strategies-users-srivastava-zet4f
-[6] https://getstream.io/blog/4-ways-to-increase-daily-active-users/
-[7] https://www.vrinsofts.com/elevating-business-success-the-benefits-of-migrating-to-react-native/
-[8] https://www.storyly.io/post/how-to-increase-app-engagement
-[9] https://uxcam.com/blog/how-to-grow-active-users/
-[10] https://geekyants.com/en-us/blog/top-15-proven-methods-for-increasing-app-user-engagement
 </details>
 
 #
@@ -732,18 +639,6 @@ Citations:
 19. How did you handle traffic spikes or sudden increases in user load? Can you describe a specific incident and your response?
 
 20. Can you walk me through your strategy for documenting the load balancing configuration and performance optimizations for your team?
-
-Citations:
-[1] https://loadforge.com/guides/monitoring-and-tuning-nginx-for-better-load-balancing
-[2] https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/
-[3] https://www.blueflameadvisors.com/project/nginx-case-studies/
-[4] https://www.f5.com/company/blog/nginx/how-f5-nginx-one-enhances-availability-and-performance
-[5] https://www.kubelynx.com/article/what-is-nginx-load-balancing-and-choosing-right-load-balancing-algorithms-beginners-guide-boosting-website-performance
-[6] https://www.f5.com/company/blog/nginx/nginx-power-of-two-choices-load-balancing-algorithm
-[7] https://carboncoffee.hashnode.dev/nginx-in-action-a-case-study-on-enhancing-in-house-web-performance
-[8] https://www.cloudpanel.io/blog/nginx-performance/
-[9] https://convesio.com/knowledgebase/article/the-ultimate-guide-to-nginx-load-balancer/
-[10] https://hackernoon.com/optimizing-nginx-for-high-traffic-systems-a-guide-to-configuration-and-monitoring
 
 
 </details>
@@ -794,17 +689,6 @@ Citations:
 
 20. Describe a situation where you had to quickly address a critical usability issue discovered through user testing. What was your approach?
 
-Citations:
-[1] https://daily.dev/blog/mobile-app-usability-testing-methods-tools-best-practices
-[2] https://reloadux.com/blog/best-practices-for-optimizing-mobile-app-user-experience/
-[3] https://prime46.com/case-studies/incorporating-customer-feedback-into-mobile-app-re-design-and-development/
-[4] https://contentsquare.com/guides/user-testing/examples/
-[5] https://moldstud.com/articles/p-the-role-of-user-testing-in-app-refinement
-[6] https://qualaroo.com/blog/in-app-feedback-strategies/
-[7] https://onesignal.com/blog/collecting-user-feedback-to-enhance-the-app-experience/
-[8] https://www.usertesting.com/resources/guides/usability-testing/examples
-[9] https://uxmag.com/articles/tips-and-tricks-for-mastering-the-art-of-mobile-app-user-testing
-[10] https://userguiding.com/blog/in-app-survey-best-practices
 
 </details>
 
@@ -856,17 +740,6 @@ Citations:
 
 20. Can you describe a situation where you had to optimize queries in a production environment? How did you minimize the impact on active users?
 
-Citations:
-[1] https://www.acceldata.io/blog/query-optimization-in-sql-essential-techniques-tools-and-best-practices
-[2] https://liambx.com/blog/database-performance-metrics-guide
-[3] https://www.thoughtspot.com/data-trends/data-modeling/optimizing-sql-queries
-[4] https://inbalanceit.com/techniques-to-help-improve-database-performance/
-[5] https://www.sqlshack.com/using-the-sql-execution-plan-for-query-performance-tuning/
-[6] https://www.kualitatem.com/blog/software-testing/how-to-measure-database-performance-and-optimize-queries-during-performance-testing/
-[7] https://www.useready.com/blog/sql-queries-optimizing-for-performance-best-practices-and-techniques
-[8] https://www.apriorit.com/dev-blog/381-sql-query-optimization
-[9] https://dev.to/jackynote/optimizing-sql-performance-with-execution-plans-1fd8
-[10] https://loadforge.com/guides/best-practices-for-query-optimization-in-mssql
 </details>
 
 #
@@ -914,16 +787,6 @@ Citations:
 
 20. How did you ensure that the 48ms improvement in loading time translated to a better user experience? What metrics or feedback did you use to validate this?
 
-Citations:
-[1] https://distillery.com/blog/optimize-app-performance-speed/
-[2] https://www.statsig.com/perspectives/performance-bottlenecks-in-app-development
-[3] https://www.productledalliance.com/performance-bottlenecks-in-web-applications/
-[4] https://www.nexthorizon.net/optimizing-app-performance-strategies-for-faster-load-times/
-[5] https://www.kualitatem.com/blog/software-testing/common-bottlenecks-in-applications-during-performance-testing/
-[6] https://dev.to/apilover/top-10-profiler-tools-for-optimizing-software-performance-in-2024-5d09
-[7] https://velanapps.com/blog/app-loading-speed-tips/
-[8] https://www.reddit.com/r/webdev/comments/aaxjft/in_an_average_web_app_what_part_of_it_is_usually/
-[9] https://www.bitcot.com/how-to-make-apps-load-faster/
 </details>
 
 #
@@ -971,17 +834,6 @@ Citations:
 
 20. How did you measure the overall impact of implementing code minification, resource bundling, and caching techniques on your hybrid app's performance? Can you provide specific examples of improvements?
 
-Citations:
-[1] https://www.pcloudy.com/blogs/top-8-strategies-for-successful-cross-browser-testing/
-[2] https://www.techcronus.com/blog/best-practices-for-hybrid-app-development/
-[3] https://www.hurix.com/a-comprehensive-guide-on-the-best-practices-for-hybrid-mobile-app-development/
-[4] https://colaninfotech.com/blog/20-common-challenges-and-its-solutions-in-developing-hybrid-mobile-applications/
-[5] https://www.browserstack.com/guide/common-cross-browser-compatibility-issues
-[6] https://www.futureplatforms.com/blog/4-common-hybrid-app-development-challenges
-[7] https://www.linkedin.com/advice/3/how-do-you-ensure-cross-platform-compatibility
-[8] https://moldstud.com/articles/p-designing-for-accessibility-and-inclusivity-in-hybrid-apps
-[9] https://unicornplatform.com/blog/minification-vs-bundling-optimize-landing-page-speed/
-[10] https://www.pixelqa.com/blog/post/testing-hybrid-mobile-apps-challenges-and-solutions
 </details>
 
 #
@@ -1028,17 +880,6 @@ Citations:
 19. Describe a situation where you had to balance short-term performance fixes with long-term improvements. How did you make your decisions?
 
 20. Can you walk me through your process for continuously refining and improving your monitoring and benchmarking approach over time?
-
-Citations:
-[1] https://openobserve.ai/resources/web-application-monitoring-best-practices/
-[2] https://www.debugbear.com/docs/page-load-time
-[3] https://www.linkedin.com/advice/1/how-do-you-incorporate-user-feedback-continuous
-[4] https://alerty.ai/blog/application-monitoring-best-practices
-[5] https://alerty.ai/blog/monitor-web-application
-[6] https://www.apmdigest.com/benchmarking-software-performance-setting-standards-efficiency-and-responsiveness
-[7] https://moldstud.com/articles/p-leveraging-user-feedback-for-continuous-improvement
-[8] https://openobserve.ai/resources/web-application-monitoring-tools-best-practices/
-[9] https://www.manageengine.com/products/applications_manager/application-performance-monitoring-apm-best-practices.html
 
 </details>
 
@@ -1094,17 +935,6 @@ Citations:
 
 20. Describe a situation where you had to collaborate with other teams to implement data-driven improvements. How did you manage the process and communication?
 
-Citations:
-[1] https://sellbery.com/blog/7-actionable-ways-to-visualize-ecommerce-analytics/
-[2] https://techifysolutions.com/blog/web-scraping-with-python/
-[3] https://www.nobledesktop.com/learn/tableau/measuring-success-key-performance-indicators-through-tableau
-[4] https://www.classicinformatics.com/blog/ecommerce-data-visualization
-[5] https://www.nobledesktop.com/learn/python/web-scraping-for-data-collection-in-python-a-beginners-guide
-[6] https://drlee.io/understanding-tableaus-chart-and-visualization-options-a-comprehensive-guide-for-beginners-bc4a8528bbff?gi=49e4a3c17906
-[7] https://keymakr.com/blog/building-a-data-driven-e-commerce-strategy-skills-and-resources-for-success/
-[8] https://www.geeksforgeeks.org/data-visualization-using-matplotlib/
-[9] https://www.vizio.ai/blog/visualizing-success-data-visualization-tools-for-e-commerce
-[10] https://mennobouma.com/the-right-data-analysis-tools-for-effective-e-commerce-optimization/
 </details>
 
 #
